@@ -17,8 +17,8 @@
 
     @include('navbar')
 
-    <div class="row header-container justify-content-center">
-        <div class="header">
+    <div class=" header-container  ">
+        <div class="header ">
             <h1>Student Management System</h1>
         </div>
     </div>

@@ -4,13 +4,15 @@
     margin-top: 20px !important;
     margin-bottom: 20px !important;
     font-family: 'Dancing Script', cursive;
-    font-size: 20px !important;
+    font-size: 40px !important;
 }
 .header-container {
     margin-right: 0px !important;
     margin-left: 0px !important;
+    justify-content: center;
+    display: flex;
 }
-.header-container > h2 {
+.header-container > h1 {
 
 }
 .bg-light {

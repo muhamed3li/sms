@@ -25,7 +25,7 @@
                     <td>{{$student->speciality}}</td>
                     <td>
                         <a href="#" class="btn btn-sm btn-info">Show</a>
-                        <a href="{{url('/edit'.$student->id)}}" class="btn btn-sm btn-warning">Edit</a>
+                        <a href="{{url('/edit/'.$student->id)}}" class="btn btn-sm btn-warning">Edit</a>
                         <a href="{{url('/delete'.$student->id)}}" class="btn btn-sm btn-danger">Delete</a>
                     </td>
                 </tr>
